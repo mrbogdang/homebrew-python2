@@ -1,4 +1,4 @@
-class Pythonat2 < Formula
+class python@2 < Formula
   desc "Interpreted, interactive, object-oriented programming language"
   homepage "https://www.python.org/"
   url "https://www.python.org/ftp/python/2.7.17/Python-2.7.17.tar.xz"
